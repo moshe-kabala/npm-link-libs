@@ -1,8 +1,9 @@
 {
   "name": "npm-link-libs",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "links your local libs by adding \"linkTo\": [\"lib1\", \"...\"] in your package.json",
-  "main": "index.js",
+  "main": "./index.js",
+  "bin": "./index.js",
   "scripts": {
     "release": "npm publish --access=public && npm version patch"
   },
