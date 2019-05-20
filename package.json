@@ -1,7 +1,7 @@
 {
   "name": "npm-link",
   "version": "1.0.0",
-  "description": "links your locals libs by adding \"linkTo\": [\"lib1\", \"...\"] in your package.json",
+  "description": "links your local libs by adding \"linkTo\": [\"lib1\", \"...\"] in your package.json",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
